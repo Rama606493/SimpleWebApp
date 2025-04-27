@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** Tomorrow we will start the session @7AM  **** </h1>   
+         <h1> **** This is CICD Project **** </h1>   
 	 
 
     </section>    
